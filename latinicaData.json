@@ -1,0 +1,41 @@
+[
+  {
+    "firstName": "Banks",
+    "lastName": "Bright",
+    "phone": "+1 (903) 402-3494",
+    "car": "Kia",
+    "picture": "http://placehold.it/32x32",
+    "freeSeats": 1,
+    "startLocation": "Shtip",
+    "endLocation": "Skopje",
+    "date": "27-01-2020",
+    "time": "01:00",
+    "rating": 7
+  },
+  {
+    "firstName": "Natalia",
+    "lastName": "Velez",
+    "phone": "+1 (942) 413-2927",
+    "car": "Honda",
+    "picture": "http://placehold.it/32x32",
+    "freeSeats": 3,
+    "startLocation": "Veles",
+    "endLocation": "Struga",
+    "date": "12-01-2020",
+    "time": "15:30",
+    "rating": 5
+  },
+  {
+    "firstName": "Patsy",
+    "lastName": "Palmer",
+    "phone": "+1 (809) 516-3745",
+    "car": "BMW",
+    "picture": "http://placehold.it/32x32",
+    "freeSeats": 2,
+    "startLocation": "Skopje",
+    "endLocation": "Veles",
+    "date": "14-01-2020",
+    "time": "16:30",
+    "rating": 10
+  }
+]
